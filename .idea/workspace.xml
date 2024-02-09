@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="230ff034-0050-4ca3-84f5-c3ef9121ba0b" name="Changes" comment="8-11.5 done, almost done with 12">
+    <list default="true" id="230ff034-0050-4ca3-84f5-c3ef9121ba0b" name="Changes" comment="1-12 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +56,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707413367228</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1-12 done">
+      <option name="closed" value="true" />
+      <created>1707498583790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707498583790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="8-11.5 done, almost done with 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="8-11.5 done, almost done with 12" />
+    <MESSAGE value="1-12 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-12 done" />
   </component>
 </project>
