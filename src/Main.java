@@ -69,8 +69,8 @@ ArrayList<Animal> stuff = new ArrayList<Animal>();
         for(Animal slayers: stuff){
             System.out.println(slayers.getAge());
             slayers.eat();
-            slayers.bark(); //wouldn't work bc there's no bark in the animal class. time to fix that!
-            // it also wouldn't work bc 
+            System.out.println(slayers.bark()); //wouldn't work bc there's no bark in the animal class. time to fix that!
+            // it also wouldn't work bc
         }
     }
 }
