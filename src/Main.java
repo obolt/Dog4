@@ -48,8 +48,15 @@ public class Main
         doggies.add(new Yorkshire("Ed Sheeran", 5));
         doggies.add(new Labrador("Golden Freddy", "gold"));
         for(int x = 0; x < 3; x++){
-            System.out.println(dogs[x].bark());
+           // System.out.println(doggies[x].bark()); this did not work. obviously.
+            System.out.println(doggies.get(x).bark());
         }
+
+        for(Dog goobs: doggies){
+            System.out.println(goobs.bark());
+        }
+        ((Labrador)doggies.get(2)).waddle();
+        // had to put parenthasis around everything before waddle() because labrador was in the array as a dog.
 
 
 
